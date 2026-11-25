@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WV6X2Tc0gb0=",
+  "success": true,
+  "projectFilePath": "/Users/raghuveer/Desktop/napl/lab6/StringProcessing/StringProcessing.fsproj",
+  "expectedPackageFiles": [
+    "/Users/raghuveer/.nuget/packages/fsharp.core/10.1.403/fsharp.core.10.1.403.nupkg.sha512"
+  ],
+  "logs": []
+}

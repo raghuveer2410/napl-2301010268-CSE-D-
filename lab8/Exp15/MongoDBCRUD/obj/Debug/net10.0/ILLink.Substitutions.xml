@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="MongoDBCRUD">
+    <resource name="FSharpSignatureData.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationData.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.MongoDBCRUD" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.MongoDBCRUD" action="remove"></resource>
+  </assembly>
+</linker>

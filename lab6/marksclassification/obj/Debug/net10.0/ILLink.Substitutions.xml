@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Exp9">
+    <resource name="FSharpSignatureData.Exp9" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Exp9" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Exp9" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Exp9" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Exp9" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Exp9" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Exp9" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Exp9" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Exp9" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Exp9" action="remove"></resource>
+  </assembly>
+</linker>

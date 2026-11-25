@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="parallelworkflows">
+    <resource name="FSharpSignatureData.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpOptimizationData.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.parallelworkflows" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.parallelworkflows" action="remove"></resource>
+  </assembly>
+</linker>
