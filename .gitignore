@@ -1,0 +1,6 @@
+.DS_Store
+*.jar
+.clj-kondo/
+.lsp/
+bin/
+obj/
